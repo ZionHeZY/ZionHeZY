@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=3DWrapperView&theme=radical "3DWrapperView")](https://github.com/ZionHeZY/3DWrapperView)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=WeatherCurveView&theme=highcontrast "WeatherCurveView")](https://github.com/ZionHeZY/WeatherCurveView)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=WeatherCurveView&theme=radical "WeatherCurveView")](https://github.com/ZionHeZY/WeatherCurveView)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=SoundRecorderN&theme=highcontrast "SoundRecorderN")](https://github.com/ZionHeZY/SoundRecorderN)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=BleMsg&theme=highcontrast "BleMsg")](https://github.com/ZionHeZY/BleMsg)
 
