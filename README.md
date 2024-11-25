@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=3DWrapperView&theme=radical "3DWrapperView")](https://github.com/ZionHeZY/3DWrapperView)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=WeatherCurveView&theme=radical "WeatherCurveView")](https://github.com/ZionHeZY/WeatherCurveView)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=SoundRecorderN&theme=highcontrast "SoundRecorderN")](https://github.com/ZionHeZY/SoundRecorderN)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=BleMsg&theme=highcontrast "BleMsg")](https://github.com/ZionHeZY/BleMsg)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=AndroidNumericText&theme=highcontrast "AndroidNumericText")](https://github.com/ZionHeZY/AndroidNumericText)
 
 <div align="center">
 <img alt="GIF" src="https://github.com/ZionHeZY/ZionHeZY/blob/main/assests/Mario1.gif" width="20vw" />
