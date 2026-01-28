@@ -1,38 +1,127 @@
-### Hi I'm HeZY 👋
-
-<!--
-**ZionHeZY/ZionHeZY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
-<img alt="GIF" src="https://github.com/ZionHeZY/ZionHeZY/blob/main/assests/hmm.gif" width="20vw" />
+
+# HeZY
+
+### Mobile UI Engineer · Open Source Creator
+
+Building delightful mobile experiences with **Swift** & **Kotlin**
+Crafting UI components that developers love to use
+
+[View Projects](#projects) · [Get in Touch](mailto:he0564@gmail.com)
+
+---
+
 </div>
 
-### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=3DWrapperView&theme=radical "3DWrapperView")](https://github.com/ZionHeZY/3DWrapperView)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=WeatherCurveView&theme=radical "WeatherCurveView")](https://github.com/ZionHeZY/WeatherCurveView)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=SoundRecorderN&theme=highcontrast "SoundRecorderN")](https://github.com/ZionHeZY/SoundRecorderN)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=AndroidNumericText&theme=radical "AndroidNumericText")](https://github.com/ZionHeZY/AndroidNumericText)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=ThanosEffect&theme=highcontrast "ThanosEffect")](https://github.com/ZionHeZY/ThanosEffect)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=TitaniumFlow&theme=highcontrast "TitaniumFlow")](https://github.com/ZionHeZY/TitaniumFlow)
+## About
+
+I create **production-ready mobile UI libraries** that solve real-world problems. My work focuses on:
+
+- **3D & Animation** — Immersive user experiences with smooth, performant animations
+- **Custom Views** — Reusable components that are easy to integrate and customize
+- **Developer Tools** — Libraries that boost productivity and code quality
 
 <div align="center">
-<img alt="GIF" src="https://github.com/ZionHeZY/ZionHeZY/blob/main/assests/Mario1.gif" width="20vw" />
+<img src="https://github.com/ZionHeZY/ZionHeZY/blob/main/assests/hmm.gif" width="180" alt="Coding animation" />
 </div>
 
+---
 
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/ZionHeZY/count.svg)
+## <a name="projects"></a>Featured Projects
 
-⭐️ From [ZionHeZY](https://github.com/ZionHeZY)
+<table>
+<tr>
+<td width="50%">
+
+### [TitaniumFlow](https://github.com/ZionHeZY/TitaniumFlow)
+> Fluid animation framework for iOS
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=TitaniumFlow&theme=transparent&hide_border=true&title_color=18181B&text_color=3F3F46&icon_color=2563EB)](https://github.com/ZionHeZY/TitaniumFlow)
+
+Swift · Animation · iOS
+
+</td>
+<td width="50%">
+
+### [3DWrapperView](https://github.com/ZionHeZY/3DWrapperView)
+> 3D transformation wrapper for UIKit
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=3DWrapperView&theme=transparent&hide_border=true&title_color=18181B&text_color=3F3F46&icon_color=2563EB)](https://github.com/ZionHeZY/3DWrapperView)
+
+Swift · 3D · UIKit
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [WeatherCurveView](https://github.com/ZionHeZY/WeatherCurveView)
+> Smooth weather data visualization
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=WeatherCurveView&theme=transparent&hide_border=true&title_color=18181B&text_color=3F3F46&icon_color=2563EB)](https://github.com/ZionHeZY/WeatherCurveView)
+
+Swift · Charts · UI
+
+</td>
+<td width="50%">
+
+### [ThanosEffect](https://github.com/ZionHeZY/ThanosEffect)
+> Particle disintegration animation
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=ThanosEffect&theme=transparent&hide_border=true&title_color=18181B&text_color=3F3F46&icon_color=2563EB)](https://github.com/ZionHeZY/ThanosEffect)
+
+Kotlin · Animation · Android
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [SoundRecorderN](https://github.com/ZionHeZY/SoundRecorderN)
+> Modern audio recording library
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=SoundRecorderN&theme=transparent&hide_border=true&title_color=18181B&text_color=3F3F46&icon_color=2563EB)](https://github.com/ZionHeZY/SoundRecorderN)
+
+Kotlin · Audio · Android
+
+</td>
+<td width="50%">
+
+### [AndroidNumericText](https://github.com/ZionHeZY/AndroidNumericText)
+> Animated number transitions
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=AndroidNumericText&theme=transparent&hide_border=true&title_color=18181B&text_color=3F3F46&icon_color=2563EB)](https://github.com/ZionHeZY/AndroidNumericText)
+
+Kotlin · Animation · Android
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+```swift
+let platforms = ["iOS", "Android"]
+let languages = ["Swift", "Kotlin", "Objective-C", "Java"]
+let expertise = ["UIKit", "SwiftUI", "Jetpack Compose", "Custom Views"]
+```
+
+<div align="center">
+<img src="https://github.com/ZionHeZY/ZionHeZY/blob/main/assests/Mario1.gif" width="160" alt="Mario animation" />
+</div>
+
+---
+
+<div align="center">
+
+### Let's Build Something Great
+
+![Profile Views](https://komarev.com/ghpvc/?username=ZionHeZY&color=2563EB&style=flat-square&label=Profile+Views)
+
+**[GitHub](https://github.com/ZionHeZY)** · **[Email](mailto:he0564@gmail.com)**
+
+<sub>Open to collaborations and interesting projects</sub>
+
+</div>
