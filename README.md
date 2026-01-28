@@ -33,8 +33,6 @@ Building delightful mobile experiences with **Swift** & **Kotlin**
 
 ### Let's Build Something Great
 
-![Profile Views](https://komarev.com/ghpvc/?username=ZionHeZY&color=2563EB&style=flat-square&label=Profile+Views)
-
 **[GitHub](https://github.com/ZionHeZY)** · **[Email](mailto:he0564@gmail.com)**
 
 <sub>Open to collaborations and interesting projects</sub>
