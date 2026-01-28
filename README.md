@@ -1,9 +1,5 @@
 ### Hi I'm HeZY 👋
 
-🔭 前端移动端开发开源爱好者
-💻 专注于构建精致的 UI 组件和动画效果
-📫 联系我: [he0564@gmail.com](mailto:he0564@gmail.com)
-
 <div align="center">
 <img src="https://github.com/ZionHeZY/ZionHeZY/blob/main/assests/hmm.gif" width="20vw" alt="Coding animation" />
 </div>
