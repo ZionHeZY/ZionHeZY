@@ -1,30 +1,110 @@
-### Hi I'm HeZY 👋
+<h1>Hi, I'm HeZY 👋</h1>
 
-<div align="center">
-<img src="https://github.com/ZionHeZY/ZionHeZY/blob/main/assests/hmm.gif" width="20vw" alt="Coding animation" />
-</div>
+<p>
+  <strong>Mobile visual-effects engineer</strong> — Android &amp; iOS animations, particle systems, custom views.<br/>
+  I build the small moments that make apps feel alive.
+</p>
 
-### Featured Projects
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=ThanosEffect&theme=highcontrast)](https://github.com/ZionHeZY/ThanosEffect)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=TitaniumFlow&theme=highcontrast)](https://github.com/ZionHeZY/TitaniumFlow)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=3DWrapperView&theme=radical)](https://github.com/ZionHeZY/3DWrapperView)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=WeatherCurveView&theme=radical)](https://github.com/ZionHeZY/WeatherCurveView)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=SoundRecorderN&theme=highcontrast)](https://github.com/ZionHeZY/SoundRecorderN)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZionHeZY&repo=AndroidNumericText&theme=radical)](https://github.com/ZionHeZY/AndroidNumericText)
-
-<div align="center">
-<img src="https://github.com/ZionHeZY/ZionHeZY/blob/main/assests/Mario1.gif" width="20vw" alt="Mario animation" />
-</div>
+<img align="right" width="180" src="https://raw.githubusercontent.com/ZionHeZY/ZionHeZY/main/assests/hmm.gif" alt="hmm" />
 
 ---
 
-<div align="center">
+## Featured Projects
 
-### Let's Build Something Great
+### 🤖 Android
 
-**[GitHub](https://github.com/ZionHeZY)** · **[Email](mailto:he0564@gmail.com)**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ZionHeZY/ThanosEffect">ThanosEffect</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/github/stars/ZionHeZY/ThanosEffect?style=flat-square&label=%E2%98%85&color=ffb400" alt="stars" />
+      </p>
+      <p>Snap your fingers — components disintegrate into particles.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ZionHeZY/AndroidNumericText">AndroidNumericText</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/github/stars/ZionHeZY/AndroidNumericText?style=flat-square&label=%E2%98%85&color=ffb400" alt="stars" />
+      </p>
+      <p>Smooth number-rolling animations for counters and tickers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ZionHeZY/3DWrapperView">3DWrapperView</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/github/stars/ZionHeZY/3DWrapperView?style=flat-square&label=%E2%98%85&color=ffb400" alt="stars" />
+      </p>
+      <p>Sensor-driven parallax — tilt the device, watch layers move.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ZionHeZY/WeatherCurveView">WeatherCurveView</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/github/stars/ZionHeZY/WeatherCurveView?style=flat-square&label=%E2%98%85&color=ffb400" alt="stars" />
+      </p>
+      <p>A smooth curved-line widget for weather data visualization.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ZionHeZY/SoundRecorderN">SoundRecorderN</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/github/stars/ZionHeZY/SoundRecorderN?style=flat-square&label=%E2%98%85&color=ffb400" alt="stars" />
+      </p>
+      <p>A clean, minimal sound recorder app for Android.</p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
-<sub>Open to collaborations and interesting projects</sub>
+### 🍎 iOS
 
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ZionHeZY/TitaniumFlow">TitaniumFlow</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+        <img src="https://img.shields.io/github/stars/ZionHeZY/TitaniumFlow?style=flat-square&label=%E2%98%85&color=ffb400" alt="stars" />
+      </p>
+      <p>Metallic particle flow built with SpriteKit + SwiftUI.</p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+
+---
+
+## GitHub
+
+<p>
+  <img src="https://img.shields.io/github/followers/ZionHeZY?style=flat-square&label=Followers&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ZionHeZY?style=flat-square&label=Stars&color=ffb400&affiliations=OWNER" alt="total stars" />
+</p>
+
+## Let's Build Something Great
+
+<p>
+  <a href="https://github.com/ZionHeZY"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:he0564@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<sub>Open to collaborations on anything that moves, glows, or shatters into particles.</sub>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ZionHeZY/ZionHeZY/main/assests/Coin.gif" width="48" alt="coin" />
