@@ -19,18 +19,8 @@
 
 ## Featured Projects
 
-### 🤖 Android
-
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/ZionHeZY/ThanosEffect">ThanosEffect</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/github/stars/ZionHeZY/ThanosEffect?style=flat-square&label=%E2%98%85&color=ffb400" alt="stars" />
-      </p>
-      <p>Snap your fingers — components disintegrate into particles.</p>
-    </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/ZionHeZY/AndroidNumericText">AndroidNumericText</a></h4>
       <p>
@@ -39,8 +29,6 @@
       </p>
       <p>Smooth number-rolling animations for counters and tickers.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/ZionHeZY/3DWrapperView">3DWrapperView</a></h4>
       <p>
@@ -49,31 +37,7 @@
       </p>
       <p>Sensor-driven parallax — tilt the device, watch layers move.</p>
     </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/ZionHeZY/WeatherCurveView">WeatherCurveView</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/github/stars/ZionHeZY/WeatherCurveView?style=flat-square&label=%E2%98%85&color=ffb400" alt="stars" />
-      </p>
-      <p>A smooth curved-line widget for weather data visualization.</p>
-    </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/ZionHeZY/SoundRecorderN">SoundRecorderN</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/github/stars/ZionHeZY/SoundRecorderN?style=flat-square&label=%E2%98%85&color=ffb400" alt="stars" />
-      </p>
-      <p>A clean, minimal sound recorder app for Android.</p>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-### 🍎 iOS
-
-<table>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/ZionHeZY/TitaniumFlow">TitaniumFlow</a></h4>
@@ -83,7 +47,32 @@
       </p>
       <p>Metallic particle flow built with SpriteKit + SwiftUI.</p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ZionHeZY/ThanosEffect">ThanosEffect</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/github/stars/ZionHeZY/ThanosEffect?style=flat-square&label=%E2%98%85&color=ffb400" alt="stars" />
+      </p>
+      <p>Snap your fingers — components disintegrate into particles.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ZionHeZY/WeatherCurveView">WeatherCurveView</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/github/stars/ZionHeZY/WeatherCurveView?style=flat-square&label=%E2%98%85&color=ffb400" alt="stars" />
+      </p>
+      <p>A smooth curved-line widget for weather data visualization.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ZionHeZY/SoundRecorderN">SoundRecorderN</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/github/stars/ZionHeZY/SoundRecorderN?style=flat-square&label=%E2%98%85&color=ffb400" alt="stars" />
+      </p>
+      <p>A clean, minimal sound recorder app for Android.</p>
+    </td>
   </tr>
 </table>
 
