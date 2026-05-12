@@ -1,28 +1,19 @@
-<table>
-  <tr>
-    <td width="75%" valign="middle">
-      <h1>Hi, I'm HeZY 👋</h1>
-      <p>
-        <strong>Mobile visual-effects engineer</strong> — Android &amp; iOS animations, particle systems, custom views.<br/>
-        I build the small moments that make apps feel alive.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
-        <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS" />
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-      </p>
-    </td>
-    <td width="25%" valign="middle" align="right">
-      <img width="160" src="https://raw.githubusercontent.com/ZionHeZY/ZionHeZY/main/assests/hmm.gif" alt="hmm" />
-    </td>
-  </tr>
-</table>
+<h1>Hi, I'm HeZY <img src="https://raw.githubusercontent.com/ZionHeZY/ZionHeZY/main/assests/hmm.gif" width="44" align="bottom" alt="hmm" /></h1>
 
----
+<p>
+  <strong>Mobile visual-effects engineer</strong> — Android &amp; iOS animations, particle systems, custom views.<br/>
+  I build the small moments that make apps feel alive.
+</p>
 
-## Featured Projects
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+### Featured Projects
 
 <table>
   <tr>
@@ -85,16 +76,14 @@
   <img src="https://raw.githubusercontent.com/ZionHeZY/ZionHeZY/main/assests/Mario1.gif" width="100%" alt="Mario running" />
 </p>
 
----
-
-## GitHub
+### GitHub
 
 <p>
   <img src="https://img.shields.io/github/followers/ZionHeZY?style=flat-square&label=Followers&color=blue" alt="followers" />
   <img src="https://img.shields.io/github/stars/ZionHeZY?style=flat-square&label=Stars&color=ffb400&affiliations=OWNER" alt="total stars" />
 </p>
 
-## Let's Build Something Great
+### Let's Build Something Great
 
 <p>
   <a href="https://github.com/ZionHeZY"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
